@@ -1,0 +1,19 @@
+p{
+    font-weight: 400;
+    color: red;
+    background-color: black;
+    font-style: italic;
+    line-height: 200%;
+}
+
+/* img{
+    height: 10rem;
+    width: 10rem;
+} */
+
+#paragrafo1{
+    font-size: 2rem;
+    /* 16px * 2 = 32px
+    32 * 2 = 64px
+     */
+}
