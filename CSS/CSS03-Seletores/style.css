@@ -1,0 +1,38 @@
+*{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#p1{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p2{
+    color: coral;
+}
+/* Toda vez que eu precisar acessar um id no css devo utilizar o # antes do nome do indetificador */
+
+/* Toda vez que eu precisar acessar uma class no css devo utilizar o . ponto final antes do nome do indetificador */
+
+.divs{
+    background-color: aqua;
+}
+
+.D1{
+    color: darkmagenta;
+}
+
+.di1{
+    border: solid 2px black;
+}
+
+/* Crie duas sections e dentro de cada uma crie uma tag h3 e uma tag a(link)  Coloque a cor de fundo da primeira tag section de vermelho, a segunda tag section deve ter a cor de fundo roxo, mude a cor da primeira tag "a" para branco e tamanho da fonte para 35px, na segunda tag "a" coloque a cor do texto de cinza e tamanho de fonte de 54px */
+
+/* seletor elemento elemento */
+section h3, h2{
+    color: rgb(36, 255, 2);
+}
+
+#P6, a, h1, .di1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
