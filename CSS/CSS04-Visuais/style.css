@@ -1,0 +1,35 @@
+/* body{
+    background-image: url("./Sakura.jpg");
+    background-position: 50%;
+    background-attachment: fixed;
+} */
+
+#p1{
+    /* border-width: 2px;
+    border-color: aqua;
+    border-style: solid; */
+    border: dashed 2px aqua;
+}
+
+#p2{
+    text-shadow: 1px 1px 1px blueviolet;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#naruto{
+    box-shadow: 3px 3px 3px  blueviolet;
+}
+
+figure{
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+figcaption{
+    text-align: center;
+}
