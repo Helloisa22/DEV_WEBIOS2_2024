@@ -1,0 +1,11 @@
+img{
+    float: left;
+}
+
+#img2{
+    float: right;
+}
+
+#img3{
+    clear: both;
+}
