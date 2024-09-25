@@ -1,0 +1,41 @@
+button{
+    background-color: brown;
+    color: white;
+    width: 200px;
+    border-radius: 5px;
+    border: solid 2px rgb(24, 240, 226);
+}
+
+button:hover{
+    background-color: aquamarine;
+    color: black;
+    border-color: brown;
+}
+
+p:hover{
+    background-color: chocolate;
+    cursor: pointer;
+}
+
+input:focus{
+    background-color: crimson;
+}
+
+li:nth-child(3){
+    border: 1px solid orange;
+}
+
+/* 
+Empresa propria OU Prestadora de serviços
+
+Historia
+Missao, Visao, Valores
+Identidade visual(Logo, cores)
+ODS
+Analise Swoat(Fofa)
+Nome da empresa
+
+
+Opcional
+Falar sobre as cores das empresa
+*/
