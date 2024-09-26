@@ -12,10 +12,10 @@ button:hover{
     border-color: brown;
 }
 
-p:hover{
+/* p:hover{
     background-color: chocolate;
     cursor: pointer;
-}
+} */
 
 input:focus{
     background-color: crimson;
@@ -24,6 +24,34 @@ input:focus{
 li:nth-child(3){
     border: 1px solid orange;
 }
+
+#P2::after{
+    content: " - aqui nos addemos o after";
+    border: 1px dotted black;
+}
+
+#P2::before{
+    content: "aqui addemos o before - ";
+    border: solid 2px red;
+}
+
+.P3::first-letter{
+    font-size: 4em;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+
+.P3::first-line{
+    background-color: rgb(54, 217, 17);
+    color: white;
+}
+
+::selection{
+    background-color: black;
+    color: greenyellow;
+}
+
 
 /* 
 Empresa propria OU Prestadora de serviços
