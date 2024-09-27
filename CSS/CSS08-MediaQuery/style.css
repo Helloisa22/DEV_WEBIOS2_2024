@@ -1,0 +1,27 @@
+/* Coloque a largura da imagem de 700px de largura e altura e o titulo de 5rem */
+img{
+    height: 700px;
+    width: 700px;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+       /* valores pares */
+@media(max-width: 420px){
+    body{
+        background-color: rgb(255, 39, 39);
+    }
+
+    h1{
+        font-size: 2rem;
+    }
+
+    img{
+        height: 50vh;
+        width: 100%;
+    }
+
+
+}
