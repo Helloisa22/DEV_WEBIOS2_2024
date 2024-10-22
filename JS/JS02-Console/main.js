@@ -20,3 +20,21 @@ console.log(nomeAluno)
 var verdaira = true
 var falsa = false
 
+
+// variaveis - Criar um local na memoria do computador e guardar um dado.
+
+// numero/caracteres especiais/palavras reservadas
+
+// = - Atribuição
+// String - texto
+// number - numerico
+// boolean -- boleanos(true and false)
+
+// + -- somar e concatenar
+
+// quando eu quero criar uma variavel preciso inserir antes do nome dessa variavel as palavras reservadas var/let/const
+
+
+
+
+
