@@ -93,6 +93,23 @@ let aluno = {
     ///      0  1  2  3   4
 }
 
+
+let aluno2 = {
+    nome: 'Manassés BJ',
+    idade: 12,
+    altura: 1.56,
+    isCracha: true,
+    isCamisa: false,
+    isPaciencia: true,
+    isChora: true,
+    cor: 'bege',
+    notas: [10, 8, 9, 7, 8.5]
+    ///      0  1  2  3   4
+}
+
+
+
+
 // transformar o OBJ em JSON
 console.log(aluno)
 
@@ -101,3 +118,14 @@ console.log(JSON.stringify(aluno))
 let Jsonito = '{"nome":"Manassés BJ","idade":12,"altura":1.56,"isCracha":true,"isCamisa":false,"isPaciencia":true,"isChora":true,"cor":"bege","notas":[10,8,9,7,8.5]}'
 // JSON em um obj
 console.log(JSON.parse(Jsonito))
+
+
+
+let carro = {
+    nome: nome,
+    cor: cor,
+    peso: peso,
+    modelo: modelo,
+}
+let carro1 = carro("HB20", "BRANCO", 3970, "HB20")
+let carro2 = carro("Fuska", "Azul", 3479, "Fuska azul")
