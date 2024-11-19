@@ -1,0 +1,50 @@
+<aluno>
+ <nome>Juvenil Manasses Santos Jacinto</nome>
+ <telefones>
+    <telefone1>+551764257952</telefone1>
+    <telefone2>+551178934256</telefone2>
+ </telefones>
+ <endereço>
+    <cep>08151150</cep>
+    <rua>Salvador</rua>
+    <numero>3</numero>
+    <bairro>Alfa</bairro>
+ <endereço>
+</aluno>
+
+
+{
+ "aluno": {
+      "nome": "Juvenil Manasses Jacinto",
+      "telefones": [
+             "telefone1": "+551764257952",
+             "telefone2": "+551764257952",
+         ],
+     "endereço": [
+	     "cep": "08151150",
+	     "rua": "Salvador"
+	     "numero": "3",
+	     "bairro": "Alfa"
+	 ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+nome: Gabriella Bezerra Batista
+cep: 02541120
+Numero cartão: 4527861497210
+CVV: 543
+validade: 04/27
+
+
